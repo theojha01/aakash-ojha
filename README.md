@@ -7,7 +7,7 @@
 
 <h3>💬 About me: </h3>
 <p>
-  I'm a technology enthusiast, I love to integrate different technologies together like Data Analysis over Cloud Platform. I'm pursuing my Bachelors in Technology from Jaipur Engineering College & Research Center, India. I am mentored students in my college as a Google Cloud Facilitator.
+  I'm a technology enthusiast, I love to integrate different technologies together like Data Analysis over Cloud Platform. I'm pursuing my Bachelors in Technology from Jaipur Engineering College & Research Center, India. I have mentored students in my college as a Google Cloud Facilitator.
 </p>
 <hr />
 
