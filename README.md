@@ -2,7 +2,7 @@
   <img src="https://github.com/theojha01/extras/blob/478315cb5e48236980921a0c6bdf638d549befc9/IMG_20210908_142954.jpg" height="200"/>
   <br />
   <h1 align="center">I am Aakash Ojha</h1>
-  <h3 align="center">Programmer | Google Cloud Facilitator | Aviatrix Certified Engineer </h3>
+  <h3 align="center">Programmer | Google Cloud ACE Certified | Aviatrix Certified Engineer </h3>
 </p>
 
 <h3>💬 About me: </h3>
